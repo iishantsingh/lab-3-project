@@ -85,7 +85,8 @@ a. Copyright info
 
 # 🖼️ Screenshot
 
-![Portfolio Screenshot](ss.portfolio.jpg)
+![Portfolio Screenshot]
+![ss portfolio](https://github.com/user-attachments/assets/836835ed-fd02-42bd-ac8e-7f0bc63d39bb)
 
 
 # 🧩 How to Use / Run
